@@ -35,7 +35,16 @@ Github organization for life-hacks in Montenegro (Crna Gora). Open and free.
 
 ## Food
 ![Babaluu](https://irs1.4sqi.net/img/general/300x300/4779805_mZl4k58B_6g7yItKZx4-aWqIu8E-8EQJckMJgXE-Hcg.jpg)
+
 [list of good food on 4sq](https://foursquare.com/hyzhak_en/list/good-food)
+
+## Beaches
+[list of beaches ](https://foursquare.com/hyzhak_en/list/beaches-of-montenegro)
+
+## Computer shops
+![](https://irs3.4sqi.net/img/general/300x300/4779805_smBUUSAQ2Pzcxq5EfgAXFip4V9471hM4wBnRiFhltrM.jpg)
+
+[list on 4sq](https://foursquare.com/hyzhak_en/list/computers)
 
 ## Links
 
