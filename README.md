@@ -20,6 +20,8 @@ Github organization for life-hacks in Montenegro (Crna Gora). Open and free.
 * **Vrmac**
    * availability: hight (by car)
 
+[list of spots on 4sq](https://foursquare.com/hyzhak_en/list/good-for-photo)
+
 ## Links
 
 * [Facebook Group of IT Developers in Montenegro](https://www.facebook.com/groups/ex.yu.developers/)
