@@ -33,6 +33,10 @@ Github organization for life-hacks in Montenegro (Crna Gora). Open and free.
 
 [list of attractions on 4sq](https://foursquare.com/hyzhak_en/list/travel-attraction)
 
+## Food
+![Babaluu](https://irs1.4sqi.net/img/general/300x300/4779805_mZl4k58B_6g7yItKZx4-aWqIu8E-8EQJckMJgXE-Hcg.jpg)
+[list of good food on 4sq](https://foursquare.com/hyzhak_en/list/good-food)
+
 ## Links
 
 * [Facebook Group of IT Developers in Montenegro](https://www.facebook.com/groups/ex.yu.developers/)
