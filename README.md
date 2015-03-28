@@ -22,6 +22,11 @@ Github organization for life-hacks in Montenegro (Crna Gora). Open and free.
 
 [list of spots on 4sq](https://foursquare.com/hyzhak_en/list/good-for-photo)
 
+## Transport
+
+### Bus
+[list of bus stations on 4sq](https://foursquare.com/hyzhak_en/list/bus-stations-of-montenegro)
+
 ## Links
 
 * [Facebook Group of IT Developers in Montenegro](https://www.facebook.com/groups/ex.yu.developers/)
