@@ -10,7 +10,7 @@ Github organization for life-hacks in Montenegro (Crna Gora). Open and free.
 * Know more?! [Edit and Push request!](https://github.com/montehacks/montehacks.github.io/blob/master/README.md);
 
 ## Spots for Photo shoots
-
+![Haj Nehaj](https://irs1.4sqi.net/img/general/300x300/26824733_Bgj6DcgmusCNsKc14lQgO46VbX0hrF3pPXxRA14RkEo.jpg)
 * **Gorazda**
    * availability: high (by car)
 * **Haj Hehaj** sutomore
