@@ -30,7 +30,6 @@ Github organization for life-hacks in Montenegro (Crna Gora). Open and free.
 ## Attractions
 ![Lovcen](https://irs0.4sqi.net/img/general/300x300/4779805_GgaPBZaFYjf_3sa8-0pk6xgwuEAyYhQU9vzLEc94lKw.jpg)
 ![Blue Grotto](https://irs0.4sqi.net/img/general/300x300/21120241_rUW9IOE3Xm36zrTqfc9r6bW4_2hhgzMYBOcQTQ3zcEM.jpg)
-![Haj Nehaj](https://irs3.4sqi.net/img/general/300x300/20832929_TNUmMVZLMDo-qXQlJY-pr1fv_bezpNNPlTfwb9UmNDk.jpg)
 
 [list of attractions on 4sq](https://foursquare.com/hyzhak_en/list/travel-attraction)
 
