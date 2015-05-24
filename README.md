@@ -46,6 +46,11 @@ Github organization for life-hacks in Montenegro (Crna Gora). Open and free.
 
 [list on 4sq](https://foursquare.com/hyzhak_en/list/computers)
 
+## IT Conferences
+
+[it-konekt.com](http://it-konekt.com/) developers (front end, back end, mobile)
+[spark.me](http://spark.me) startups
+
 ## Links
 
 * [Facebook Group of IT Developers in Montenegro](https://www.facebook.com/groups/ex.yu.developers/)
