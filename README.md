@@ -55,6 +55,7 @@ Github organization for life-hacks in Montenegro (Crna Gora). Open and free.
   * [it-konekt.com](http://it-konekt.com/) developers (front end, back end, mobile) - _may_
   * [spark.me](http://spark.me) startups - _may, june_
 * *once in month*
+  * [coding-croatia](http://www.meetup.com/coding-croatia) dev
   * [coding-serbia](http://www.meetup.com/Coding-Serbia/) dev
   * [wave-developers.github.io](http://wave-developers.github.io) dev, startups, diy
 
