@@ -48,8 +48,8 @@ Github organization for life-hacks in Montenegro (Crna Gora). Open and free.
 
 ## IT Conferences
 
-[it-konekt.com](http://it-konekt.com/) developers (front end, back end, mobile)
-[spark.me](http://spark.me) startups
+* [it-konekt.com](http://it-konekt.com/) developers (front end, back end, mobile)
+* [spark.me](http://spark.me) startups
 
 ## Links
 
