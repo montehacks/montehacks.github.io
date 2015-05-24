@@ -48,8 +48,10 @@ Github organization for life-hacks in Montenegro (Crna Gora). Open and free.
 
 ## IT Conferences
 
-* [it-konekt.com](http://it-konekt.com/) developers (front end, back end, mobile)
-* [spark.me](http://spark.me) startups
+<img src="https://scontent-fra3-1.cdninstagram.com/hphotos-xpf1/t51.2885-15/e15/11018449_1572951939611284_1362304993_n.jpg" width="300" height="300">
+* [it-konekt.com](http://it-konekt.com/) developers (front end, back end, mobile) - _once in year may_
+* [spark.me](http://spark.me) startups - _once in year (may, june)_
+* [wave-developers.github.io](http://wave-developers.github.io) dev, startups, diy - _once in month_
 
 ## Links
 
