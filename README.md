@@ -61,6 +61,7 @@ Github organization for life-hacks in Montenegro (Crna Gora). Open and free.
 
 ## Links
 
-* [Facebook Group of IT Developers in Montenegro](https://www.facebook.com/groups/ex.yu.developers/)
+* [English speaking Facebook Group of IT Developers on Balkans](https://www.facebook.com/groups/656571341153398/)
+* [Russsian speaking Facebook Group of IT Developers on Balkans](https://www.facebook.com/groups/ex.yu.developers/)
 * [![Gitter chat](https://badges.gitter.im/montehacks/chat.png)](https://gitter.im/montehacks/chat "Gitter chat")
 * Know more? [add issue](https://github.com/montehacks/montehacks.github.io/issues) or [edit and push request](https://github.com/montehacks/montehacks.github.io/blob/master/README.md)
